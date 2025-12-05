@@ -21,6 +21,8 @@ from models import Base
 target_metadata = Base.metadata
 ```
 
+- To start the backend, use the command `fastapi dev app.py`
+
 ## Handling Migrations
 
 - To generate a migration file we run `alembic revision --autogenerate -m "The message"`
