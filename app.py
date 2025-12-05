@@ -18,7 +18,7 @@ def get_categories():
 
 @app.get("/categories/{category_id}")
 def get_category(category_id):
-    return {}
+    return {"id": category_id}
 
 @app.patch("/categories/{category_id}")
 def update_category(category_id):
@@ -39,7 +39,7 @@ def get_products():
 
 @app.get("/products/{product_id}")
 def get_product(product_id):
-    return {}
+    return {"id": product_id}
 
 @app.patch("/products/{product_id}")
 def update_product(product_id):
@@ -61,7 +61,7 @@ def get_orders():
 
 @app.get("/orders/{order_id}")
 def get_order(order_id):
-    return {}
+    return {"id": order_id}
 
 @app.patch("/orders/{order_id}")
 def update_order(order_id):
