@@ -94,11 +94,11 @@
                 "standard"
             ],
             "hashes": [
-                "sha256:54bbb660ca231d3985474498b51c621ddcf8888d9a4c1ecb10aa40ec217e4965",
-                "sha256:a9c708e47c0fa424139cddb8601d0f92d3111b77843c22e9c8d0164d65fe3c97"
+                "sha256:260cd178ad75e6d259991f2fd9b0fee924b224850079df576a3ba604ce58f4e6",
+                "sha256:91596bdc6dde303c318f06e8d2bc75eafb341fc793a0c9c92c0bc1db1ac52480"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==0.123.5"
+            "version": "==0.124.0"
         },
         "fastapi-cli": {
             "extras": [
@@ -113,11 +113,11 @@
         },
         "fastapi-cloud-cli": {
             "hashes": [
-                "sha256:34d04ffadb2562c3ebb39e6f5a599c47353750f75a2ef0a2d9c1442ed09f3308",
-                "sha256:783ab5e41baf8afcbbfb7e513ac5bdf7376202053b8bf2d158a38978dba1ca69"
+                "sha256:2c333fff2e4b93b9efbec7896ce3ffa3e77ce4cf3d8cb14e35b4f823dfddac02",
+                "sha256:b654890b5302c90d2f347b123a35186096328838a526316c470b6005cabd4983"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==0.5.2"
+            "version": "==0.6.0"
         },
         "fastar": {
             "hashes": [
@@ -951,11 +951,11 @@
         },
         "sentry-sdk": {
             "hashes": [
-                "sha256:4eeeb60198074dff8d066ea153fa6f241fef1668c10900ea53a4200abc8da9b1",
-                "sha256:91821a23460725734b7741523021601593f35731808afc0bb2ba46c27b8acd91"
+                "sha256:8218891d5e41b4ea8d61d2aed62ed10c80e39d9f2959d6f939efbf056857e050",
+                "sha256:d72f8c61025b7d1d9e52510d03a6247b280094a327dd900d987717a4fce93412"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2.46.0"
+            "version": "==2.47.0"
         },
         "shellingham": {
             "hashes": [
